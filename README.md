@@ -1,5 +1,5 @@
-# <courseCode> - <courseName>
-Code for projects from <courseCode> at Stevens Institute of Technology (<term>).
+# CS 492 - Operating Systems
+Code for projects from CS 492 at Stevens Institute of Technology (Spring 2024).
 
 The materials in this repository are being published to showcase my skills and effort through code that has been authored by myself. I have, to the best of my ability, removed materials that I have not created (including, but not limited to: assignment write-ups, lecture slides, exams).
 
