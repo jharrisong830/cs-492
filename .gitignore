@@ -1,5 +1,14 @@
 .DS_Store
-*.txt
 package-lock.json
 *.zip
 node_modules/
+*.pdf
+*.docx
+*.png
+.config
+*.cmd
+syscall
+*.tbl
+*.a
+*.o
+*.order
